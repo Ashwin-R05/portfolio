@@ -1,16 +1,22 @@
 # portfolio
 
-A new Flutter project.
+A neat and well-structured personal portfolio application built using Flutter.
+This project is created to learn Flutter step by step while building a real-world portfolio app.
 
-## Getting Started
+📱 Project Overview
 
-This project is a starting point for a Flutter application.
+This Flutter portfolio app showcases:
 
-A few resources to get you started if this is your first Flutter project:
+Personal profile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+About me section with profile image
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Skills and projects
+
+Contact information
+
+Bottom navigation
+
+Clean and scalable project structure
+
+The goal is to understand Flutter fundamentals and best coding practices used in professional apps.
